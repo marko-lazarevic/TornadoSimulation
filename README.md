@@ -37,3 +37,14 @@ This file contains an alternate version of the tornado simulation where the torn
 2. After setting your desired parameters, click the button to animate the trajectory of the object in the tornado's influence.
 
 Enjoy experimenting with different parameters to see how the object's trajectory changes based on tornado strength and launch conditions!
+
+
+## Project Credits
+
+This project was created as part of the course **Osnovi mehanike** at the **Faculty of Mathematics, University of Belgrade** in the second year by the following students:
+
+- **Marko Lazarević**
+- **Uroš Ivetić**
+- **Nikola Radojević**
+
+
